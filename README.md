@@ -1,1 +1,1 @@
-Linear Regression and Predictive Modeling for Diamonds
+Linear Regression and Decision Tree for Diamonds
